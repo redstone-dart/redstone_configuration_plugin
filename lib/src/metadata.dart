@@ -9,5 +9,11 @@ class _Configuration {
   const _Configuration();
 }
 
+class _Environment {
+  const _Environment();
+}
+
+const _Environment Environment = const _Environment();
+
 const _Configuration Configuration = const _Configuration();
 
