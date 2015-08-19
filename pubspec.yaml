@@ -8,6 +8,6 @@ environment:
 documentation: https://github.com/redstone-dart/redstone_cookies_plugin
 dependencies:
   redstone: ^0.6.0-beta.1
-  redstone_mapper:
-      path: "../redstone_mapper"
+  redstone_mapper: ^0.2.0-beta.1+1
+      #path: "../redstone_mapper"
   path: ^1.3.5
